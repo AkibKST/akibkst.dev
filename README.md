@@ -58,8 +58,8 @@ I believe great software starts with a clear problem statement and ends with mea
 
 **What I Do / Services**
 
-- Build single-page applications and marketing sites
-- Create interactive hero sections, dashboards and admin panels
+- Build Saas & Web App
+- Create interactive hero sections, dashboards and admin panels by following system architecture
 - Convert Figma/Sketch designs to production-ready code
 - Integrate backend services, databases and authentication
 - Improve performance, SEO and accessibility
